@@ -21,6 +21,9 @@ I'm a passionate developer building a lightweight ERP web application to streaml
 ### 💻 My Tech Stack
 
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
@@ -46,6 +49,6 @@ I'm a passionate developer building a lightweight ERP web application to streaml
 
 <p align="left">
 <a href="https://linkedin.com/in/handaya-riawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="handaya-riawan" height="30" width="40" /></a>
-<a href="mailto:handaya.riawan@binus.ac.id" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="handaya.riawan@binus.ac.id" height="30" width="40" /></a>
+<a href="mailto:handaya.riawan@binus.ac.id" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="handaya.riawan@binus.ac.id" height="30" width="40" /></a>
 </p>
  
